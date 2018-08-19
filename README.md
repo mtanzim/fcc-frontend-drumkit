@@ -1,4 +1,4 @@
-# Freecodecamp Front End Libraries Challenges - React Markdown Previewer
+# Freecodecamp Front End Libraries Challenges - React Drum Kit
 
 The deployed project is [here](https://mtanzim.github.io/fcc-frontend-reactmdpreviewer/).
 
@@ -14,12 +14,9 @@ Tanzim Mokammel
 
 ## Requirements
 
-[See user stories here](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer/)
+[See user stories here](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
 
-[See example here](https://codepen.io/freeCodeCamp/full/GrZVVO)
+[See example here](https://codepen.io/freeCodeCamp/full/MJyNMd)
 
 ## Lessons Learned
 
-- How to use [marked.js](https://github.com/markedjs/marked)
-- Refresher on Bootstrap, and React
-- Running CDN supplied tests on front-end apps
