@@ -8,7 +8,7 @@ import {bankOne} from "./audioBank";
 const displayId = 'display';
 
 const playAudio = (audioElemId, labelId, labelValue) => {
-  console.log(audioElemId);
+  // console.log(audioElemId);
   document.getElementById(audioElemId).play();
   document.getElementById(labelId).innerHTML = labelValue;
 }
