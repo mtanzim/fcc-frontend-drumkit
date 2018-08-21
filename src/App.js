@@ -1,21 +1,21 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import DrumMachine from './DrumMachine';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
-  }
-}
+const App = () => (
+  <div className="container">
+    <div className="jumbotron bg-dark text-light">
+      <img src={logo} className="App-logo" alt="logo" />
+      <h2 className="">Welcome to Tanzim's React Drum Kit!</h2>
+    </div>
+    <div className="row justify-content-center">
+      <DrumMachine/>
+    </div>
+    <div className="row footer justify-content-md-center border-top border-dark">
+      <p>Developed and Designed by Tanzim Mokammel</p>
+    </div>
+  </div>
+);
 
 export default App;

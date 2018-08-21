@@ -15,4 +15,7 @@ Tanzim Mokammel
 [See example here](https://codepen.io/freeCodeCamp/full/MJyNMd)
 
 ## Lessons Learned
+- How to use html5 audio
+  - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
+  - https://www.elated.com/articles/html5-audio/
 
